@@ -1,5 +1,5 @@
 context:
-  version: "0.3.14"
+  version: "0.3.15"
 
 package:
   name: publint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/publint/-/publint-${{ version }}.tgz
-  sha256: 2a84f5b7fa853d45cb29aa2a7cd8fd493a4b442d0d519712e51faaee969f7c26
+  sha256: 0ea41636f8decabcd28c9992942d80a643b19e1fb5d8c71093514bec6daeac0a
 
 build:
   number: 0
